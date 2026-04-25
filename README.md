@@ -5,11 +5,25 @@
 
 
 
-I am Subhash,
+I am an Azure Data Engineer with 5+ years of experience designing and building scalable, cloud-based data solutions across industries. My expertise lies in developing end-to-end data pipelines, enabling organizations to transform raw data into actionable insights.
 
+Currently, I work on building modern data platforms using Azure technologies such as Azure Data Factory, Azure Databricks, Azure Synapse, and Azure Data Lake. I have hands-on experience in designing robust ETL/ELT pipelines, implementing data ingestion frameworks, and optimizing large-scale data processing using PySpark and SQL.
 
+I have worked extensively on:
 
-With a strong academic background in Information Technology and 1.5 years of experience as a Quality Assurance Analyst, I have a solid foundation in Python, SQL.With a keen interest in cutting-edge technologies, I'm on a thrilling journey to explore the world of Data Science and Machine Learning, leveraging my skills to contribute to innovative projects.
+Building scalable data pipelines using Azure Data Factory
+
+Developing distributed data processing solutions with Databricks (PySpark, Spark SQL)
+
+Designing data warehouse solutions using Synapse Analytics
+
+Implementing incremental loads, SCD Type 1 & 2, and data modeling (Star/Snowflake schemas)
+
+Real-time data ingestion using Stream Analytics and event-driven architectures
+
+Migrating on-premise systems to Azure cloud platforms
+
+I also bring strong experience in performance tuning, data validation, and building reliable, production-grade data workflows with monitoring and alerting.
 
 **What You'll Find Here:**
 
@@ -27,7 +41,7 @@ I'm open to collaboration and learning from fellow developers and tech enthusias
 **Connect With Me:**
 
 - LinkedIn: www.linkedin.com/in/subhash-somarouthu
-- Email: subhashsomarouthu2000@gmail.com
+- Email: subhashpavan2000@gmail.com
 
 Thank you for visiting my GitHub portfolio. I hope you find it informative and inspiring. Your feedback and suggestions are always welcome.
 
