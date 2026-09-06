@@ -5,23 +5,15 @@
 
 
 
-I am an Azure Data Engineer with 5+ years of experience designing and building scalable, cloud-based data solutions across industries. My expertise lies in developing end-to-end data pipelines, enabling organizations to transform raw data into actionable insights.
+I help organizations optimize supply chain operations by combining data analytics with practical business solutions. Over the past 4+ years, I've worked across logistics, inventory management, procurement, and supply planning, using SQL, Power BI, SAP, Excel, and Tableau to improve visibility, reduce costs, and drive operational excellence.
 
-Currently, I work on building modern data platforms using Azure technologies such as Azure Data Factory, Azure Databricks, Azure Synapse, and Azure Data Lake. I have hands-on experience in designing robust ETL/ELT pipelines, implementing data ingestion frameworks, and optimizing large-scale data processing using PySpark and SQL.
+Snapshot
+• Who I help: Manufacturers, retailers, logistics providers, and operations teams looking to improve supply chain performance.
+• Problems I solve: Inventory inefficiencies, manual reporting, high logistics costs, limited operational visibility, and process bottlenecks.
+• Outcomes I deliver: 20% reduction in stockouts, 15% improvement in operational efficiency, $35K savings per strategic project, 10% reduction in freight costs, and 18+ hours saved weekly through reporting automation.
 
-I have worked extensively on:
+I enjoy transforming complex operational data into actionable insights that support faster, smarter business decisions. My background spans end-to-end supply chain operations, cross-functional collaboration, and continuous improvement, supported by a postgraduate education in Artificial Intelligence & Data Science.
 
-Building scalable data pipelines using Azure Data Factory
-
-Developing distributed data processing solutions with Databricks (PySpark, Spark SQL)
-
-Designing data warehouse solutions using Synapse Analytics
-
-Implementing incremental loads, SCD Type 1 & 2, and data modeling (Star/Snowflake schemas)
-
-Real-time data ingestion using Stream Analytics and event-driven architectures
-
-Migrating on-premise systems to Azure cloud platforms
 
 I also bring strong experience in performance tuning, data validation, and building reliable, production-grade data workflows with monitoring and alerting.
 
